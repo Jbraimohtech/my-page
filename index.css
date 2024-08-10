@@ -188,6 +188,7 @@ footer p {
 }
 
 .btn {
+    cursor: pointer;
     background: #34d960;
     background-image: -webkit-linear-gradient(top, #34d960, #0c5c14);
     background-image: -moz-linear-gradient(top, #34d960, #0c5c14);
@@ -261,6 +262,7 @@ footer p {
 /* THIS IS FOR WEBSITE */
 
 .website-back-arrow {
+    cursor: pointer;
     padding-left: 20px;
     float: left;
     color: green;
