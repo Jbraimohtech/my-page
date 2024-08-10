@@ -125,6 +125,7 @@ hr {
 }
 
 .right-side-float {
+    padding-top: 50px;
     text-align: start;
     width: 400px;
     float: right;
